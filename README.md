@@ -25,3 +25,5 @@
 - Login and see if your data is coming properly in the redux store
 - navbar should update as soon as user loggedin
 - Refactor our code to add contasnt file + create a component folder
+- you should not be able to access other routess wihtout login
+- If token is not present, redirect user to login page
