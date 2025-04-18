@@ -32,5 +32,6 @@
 - build the user card on feed 
 - Edit Profile Feature
 - Show Toast Message on update Profile
-- See all my connection Request
-- 
+- New Page  - See all my connection Request
+- New Page - See all my requests
+- Feature -Accept/Reject connection Request
