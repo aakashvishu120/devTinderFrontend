@@ -27,5 +27,8 @@
 - Refactor our code to add contasnt file + create a component folder
 - you should not be able to access other routess wihtout login
 - If token is not present, redirect user to login page
-- logout
-- Profile
+- logout feature
+- get the feed and add the feed in the redux store
+- build the user card on feed 
+- Edit Profile Feature
+- Show Toast Message on update Profile
